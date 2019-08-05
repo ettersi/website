@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+
+{% include head.html %}
+
+<body>
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-2 col-md-1"></div>
+        <div class="col-lg-8 col-md-10">
+            {{ content }}
+
+            <div class="text-center" style="margin-top: 4rem; margin-bottom: 4rem; line-height: 1.4;">
+                <small class="text-muted">
+                    Last updated on {{ site.time | date_to_long_string }}.
+                </small>
+            </div>
+        </div>
+        <div class="col-lg-2 col-md-1"></div>
+    </div>
+</div>
+
+</body>
+</html>
