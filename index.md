@@ -44,11 +44,12 @@ National University of Singapore
 
 2019 - Present
 : - **Peng Tsu Ann Assistant Professor** at National University of Singapore
+  - Group of [Haizhao Yang](https://haizhaoyang.github.io/)
   {:.list-unstyled}
 
 2015 - 2019
 : - **PhD in Mathematics** at University of Warwick (United Kingdom)
-  - Thesis: Polynomial and Rational Approximation for Electronic Structure Calculations
+  - Thesis: [Polynomial and Rational Approximation for Electronic Structure Calculations](pdf/phd.pdf)
   - Advisor: [Christoph Ortner](http://homepages.warwick.ac.uk/staff/C.Ortner)
   {:.list-unstyled}
 
