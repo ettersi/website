@@ -11,7 +11,7 @@
   {% if entry.file %}
   <li><a href="{{ entry.file | copy_from_mendeley_library: entry.key }}">PDF</a></li>
   {% endif %}
-  {% if entry.journal=="submitted" and entry.arxivid %}
+  {% if entry.journal=="Submitted" and entry.arxivid %}
   <li><a href="https://arxiv.org/abs/{{ entry.arxivid }}">arXiv</a></li>
   {% endif %}
   {% if entry.doi %}
