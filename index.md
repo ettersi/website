@@ -70,10 +70,10 @@ National University of Singapore
 ## Bibliography
 
 ### Preprints
-{% bibliography --query @article[author ~= Etter && journal=submitted] %}
+{% bibliography --query @article[author ~= Etter && journal=Submitted] %}
 
 ### Papers
-{% bibliography --query @article[author ~= Etter && journal!=submitted] %}
+{% bibliography --query @article[author ~= Etter && journal!=Submitted] %}
 
 ### Talks and Posters
 {% bibliography --query @misc[author ~= Etter] %}
