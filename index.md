@@ -12,15 +12,13 @@ title: Home
 </div>
 <div class="col-sm-8" markdown="1">
 
-<div style="height: 2rem" class="hidden-xs"></div>
+<div style="height: 5rem" class="hidden-xs"></div>
 <div style="height: 2rem" class="visible-xs-block"></div>
 
 <h1 style="margin-top: 0rem">Simon Etter</h1>
 
 <p style="line-height: 1.5">
-Peng Tsu Ann Assistant Professor<br>
-Department of Mathematics<br>
-National University of Singapore
+Mathematician, Software Engineer and Julia Enthusiast
 </p>
 
 <div class="btn-group">
@@ -31,9 +29,11 @@ National University of Singapore
   <a class="btn btn-default" href="https://github.com/{{ site.github_username }}" data-toggle="tooltip" title="{{ site.github_username }}" data-placement="{{ location }}">
     <i class="fa fa-github-square"></i> GitHub
   </a>
+  {% comment %}
   <a class="btn btn-default" href="" data-toggle="tooltip" title="{{ site.office }}" data-placement="{{ location }}">
     <i class="fa fa-users"></i> Office
   </a>
+  {% endcomment %}
 </div>
 
 </div>
@@ -42,9 +42,15 @@ National University of Singapore
 
 ## Curriculum Vitae
 
-2019 - Present
+2021 - 2021
+: - **Algorithms Engineer** at [Synchronous Technologies](https://www.synchronous.ai/)
+  - Developed and implemented algorithms and data structures for factory scheduling.
+  {:.list-unstyled}
+
+2019 - 2021
 : - **Peng Tsu Ann Assistant Professor** at National University of Singapore
-  - Group of [Haizhao Yang](https://haizhaoyang.github.io/)
+  - Research: Fast solvers for sparse linear systems
+  - Teaching: [Computational Mathematics](https://github.com/ettersi/ComputationalMathematics), [Numerical Analysis II](https://github.com/ettersi/NumericalAnalysisII)
   {:.list-unstyled}
 
 2015 - 2019
@@ -64,13 +70,15 @@ National University of Singapore
   - Thesis: [FFT-Based Ridgelets For Radiative Transport](pdf/bsc.pdf)
   - Advisors: Axel Obermeier, [Philipp Grohs](http://mat.univie.ac.at/~grohs/)
   {:.list-unstyled}
-{:.dl-horizontal}
+{:.dl-horizontal .curriculum-vitae}
 
 
 ## Bibliography
 
+{% comment %}
 ### Preprints
 {% bibliography --query @article[author ~= Etter && journal=Submitted] %}
+{% endcomment %}
 
 ### Papers
 {% bibliography --query @article[author ~= Etter && journal!=Submitted] %}

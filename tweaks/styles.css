@@ -23,9 +23,13 @@ i.fa {
   margin-right: 0.2rem;
 }
 
+dt, dd {
+  line-height: 1.5;
+}
+
 .bibliography .reference {
-  line-height: 1.6;
+  line-height: 1.5;
 }
 .bibliography>li:not(:last-child) {
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
 }
