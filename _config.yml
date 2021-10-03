@@ -12,6 +12,11 @@ markdown: kramdown
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  # See https://jekyllrb.com/docs/troubleshooting/#configuration-problems
 
 gems:
   - jekyll/scholar
