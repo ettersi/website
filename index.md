@@ -40,7 +40,7 @@ Mathematician, Software Engineer and Julia Enthusiast
 </div>
 
 
-## Curriculum Vitae
+## Employment
 
 2021
 : - **Algorithms Engineer** at [Synchronous Technologies](https://www.synchronous.ai/)
@@ -52,6 +52,10 @@ Mathematician, Software Engineer and Julia Enthusiast
   - Research: Fast solvers for sparse linear systems
   - Teaching: [Computational Mathematics](https://github.com/ettersi/ComputationalMathematics), [Numerical Analysis](https://github.com/ettersi/NumericalAnalysisII)
   {:.list-unstyled}
+{:.dl-horizontal .curriculum-vitae}
+
+
+## Education
 
 2015 - 2019
 : - **PhD in Mathematics** at University of Warwick (United Kingdom)
