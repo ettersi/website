@@ -50,7 +50,7 @@ Mathematician, Software Engineer and Julia Enthusiast
 2019 - 2021
 : - **Peng Tsu Ann Assistant Professor** at National University of Singapore
   - Research: Fast solvers for sparse linear systems
-  - Teaching: [Computational Mathematics](https://github.com/ettersi/ComputationalMathematics), [Numerical Analysis II](https://github.com/ettersi/NumericalAnalysisII)
+  - Teaching: [Computational Mathematics](https://github.com/ettersi/ComputationalMathematics), [Numerical Analysis](https://github.com/ettersi/NumericalAnalysisII)
   {:.list-unstyled}
 
 2015 - 2019
