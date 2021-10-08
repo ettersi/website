@@ -42,9 +42,9 @@ Mathematician, Software Engineer and Julia Enthusiast
 
 ## Curriculum Vitae
 
-2021 - 2021
+2021
 : - **Algorithms Engineer** at [Synchronous Technologies](https://www.synchronous.ai/)
-  - Developed and implemented algorithms and data structures for factory scheduling.
+  - Developed fast algorithms for factory scheduling. Wrote code in Julia, Python and C++. Created and contributed to various open-source Julia packages.
   {:.list-unstyled}
 
 2019 - 2021
