@@ -27,6 +27,10 @@ dt, dd {
   line-height: 1.5;
 }
 
+.curriculum-vitae a {
+  color: #666;
+}
+
 .bibliography .reference {
   line-height: 1.5;
 }
