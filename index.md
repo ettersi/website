@@ -43,17 +43,17 @@ Mathematician & Software Engineer
 ## Employment
 
 2022
-: - **Software Engineer** at Ackham Capital (Singapore)
+: - **Software Engineer at Ackham Capital** (Singapore)
   - Main developer of a crypto-currency arbitrage trading bot. Bot was written mainly in Rust, with connectors to EVM nodes and the Binance API implemented as TypeScript gRPC servers.
   {:.list-unstyled}
 
 2021
-: - **Algorithms Engineer** at [Synchronous Technologies](https://www.synchronous.ai/) (Singapore)
+: - **Algorithms Engineer at [Synchronous Technologies](https://www.synchronous.ai/)** (Singapore)
   - Developed fast algorithms for factory scheduling. Wrote code in Julia, Python and C++. Created and contributed to various open-source Julia packages.
   {:.list-unstyled}
 
 2019 - 2021
-: - **Peng Tsu Ann Assistant Professor** at National University of Singapore
+: - **Peng Tsu Ann Assistant Professor at National University of Singapore**
   - Research: Fast solvers for sparse linear systems
   - Teaching: [Computational Mathematics](https://github.com/ettersi/ComputationalMathematics), [Numerical Analysis](https://github.com/ettersi/NumericalAnalysisII)
   {:.list-unstyled}
@@ -63,19 +63,19 @@ Mathematician & Software Engineer
 ## Education
 
 2015 - 2019
-: - **PhD in Mathematics** at University of Warwick (United Kingdom)
+: - **PhD in Mathematics at University of Warwick** (United Kingdom)
   - Thesis: [Polynomial and Rational Approximation for Electronic Structure Calculations](pdf/phd.pdf)
   - Advisor: [Christoph Ortner](http://homepages.warwick.ac.uk/staff/C.Ortner)
   {:.list-unstyled}
 
 2013 - 2015
-: - **MSc in Computational Science and Engineering** at ETH Zurich (Switzerland)
+: - **MSc in Computational Science and Engineering at ETH Zurich** (Switzerland)
   - Thesis: [Parallel Tensor-Formatted Numerics for the Chemical Master Equation](pdf/msc.pdf)
   - Advisors: [Robert Gantner](https://www.linkedin.com/in/rngantner), [Vladimir Kazeev](http://web.stanford.edu/~kazeev/), [Christoph Schwab](http://www.sam.math.ethz.ch/~schwab)
   {:.list-unstyled}
 
 2010 - 2013
-: - **BSc in Computational Science and Engineering** at ETH Zurich (Switzerland)
+: - **BSc in Computational Science and Engineering at ETH Zurich** (Switzerland)
   - Thesis: [FFT-Based Ridgelets For Radiative Transport](pdf/bsc.pdf)
   - Advisors: Axel Obermeier, [Philipp Grohs](http://mat.univie.ac.at/~grohs/)
   {:.list-unstyled}

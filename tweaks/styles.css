@@ -37,3 +37,7 @@ dt, dd {
 .bibliography>li:not(:last-child) {
   margin-bottom: 1.5rem;
 }
+
+.bibliography .well {
+  line-height: 1.5;
+}
