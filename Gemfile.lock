@@ -16,7 +16,7 @@ GEM
       rexml
     csl-styles (1.0.1.11)
       csl (~> 1.0)
-    ffi (1.9.17)
+    ffi (1.15.5)
     forwardable-extended (2.6.0)
     jekyll (3.3.1)
       addressable (~> 2.4)
