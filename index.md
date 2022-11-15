@@ -18,7 +18,7 @@ title: Home
 <h1 style="margin-top: 0rem">Simon Etter</h1>
 
 <p style="line-height: 1.5">
-Mathematician, Software Engineer and Julia Enthusiast
+Mathematician & Software Engineer
 </p>
 
 <div class="btn-group">
@@ -42,8 +42,13 @@ Mathematician, Software Engineer and Julia Enthusiast
 
 ## Employment
 
+2022
+: - **Software Engineer** at Ackham Capital (Singapore)
+  - Main developer of a crypto-currency arbitrage trading bot. Bot was written mainly in Rust, with connectors to EVM nodes and the Binance API implemented as TypeScript gRPC servers.
+  {:.list-unstyled}
+
 2021
-: - **Algorithms Engineer** at [Synchronous Technologies](https://www.synchronous.ai/)
+: - **Algorithms Engineer** at [Synchronous Technologies](https://www.synchronous.ai/) (Singapore)
   - Developed fast algorithms for factory scheduling. Wrote code in Julia, Python and C++. Created and contributed to various open-source Julia packages.
   {:.list-unstyled}
 
